@@ -1,6 +1,6 @@
 # DNS info
 
-A Flutter plugin allowing to get DNS servers IP from the system (Android, iOS)
+A Flutter plugin allowing to get DNS servers IP from the system (Android only)
 
 ### ⚠️ WIP This plugin is under development
 
