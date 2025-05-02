@@ -37,8 +37,6 @@ flutter:
       android:
         package: com.koizeay.lib.dns_info
         pluginClass: DnsInfoPlugin
-      ios:
-        pluginClass: DnsInfoPlugin
 
   # To add assets to your plugin package, add an assets section, like this:
   # assets:
